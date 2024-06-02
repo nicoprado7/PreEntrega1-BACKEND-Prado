@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "Buzo MTBMB",
+    "description": "Buzo con capucha, estampado rojo y blanco en el pecho, estampado de cuchillo blanco en la manga",
+    "code": "PRD001",
+    "price": 50000,
+    "status": true,
+    "stock": 7,
+    "category": "Hombre",
+    "thumbnails": [
+      "imagen1"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Remera slim shady cropped",
+    "description": "Firma slim shady en rojo impresa en una camiseta corta negra",
+    "code": "PRD002",
+    "price": 25000,
+    "status": true,
+    "stock": 6,
+    "category": "Mujer",
+    "thumbnails": [
+      "imagen2"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bolso Kamizaze",
+    "description": "Bolsa para casco de color verde oliva con una variedad de parches kamikaze en el frente",
+    "code": "PRD003",
+    "price": 85000,
+    "status": true,
+    "stock": 16,
+    "category": "Accesorios",
+    "thumbnails": [
+      "imagen3"
+    ]
+  }
+]
